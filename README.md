@@ -39,7 +39,3 @@ To run the internal unit tests, execute the following command in your terminal:
 ```bash
 python -m unittest discover tests/
 ```
-
-## License
-
-This project is licensed under the MIT License.
