@@ -29,7 +29,7 @@ print(result_str)  # Output: buHtiG olleH
 
 # 2. Add two numbers
 result_num = calc.add(10, 5)
-print(result_num)  # Output: 15
+print(result_num)  # Output: 15.0
 ```
 
 ## Running Tests
